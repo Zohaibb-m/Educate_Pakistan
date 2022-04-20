@@ -3,6 +3,10 @@
     color: black;
 }
 
-.footer-copyright{
-    border: 1px solid;
+.page-footer{
+    /* height: 280px !important; */
+}
+
+.footer-content{
+    text-align: left;
 }
