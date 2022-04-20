@@ -1,1 +1,1 @@
-# Educate_Pakistan
+The official repositiory for the Educate Pakistan project.
